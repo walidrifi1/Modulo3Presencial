@@ -1,0 +1,4 @@
+Holamundo, aqui estamos para aprobarecho Hola mundo, aqui estamos para aprobar!> info.txt
+Esta es la segunda línea de información.
+Esta linea esta en la nueva rama.
+Esta linea es la ultima
